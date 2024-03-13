@@ -1,0 +1,88 @@
+﻿@model IEnumerable<CrudMvcSebasCastanoEF.Models.Libro>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Libros</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-success">Create New</a>
+</p>
+
+<form asp-controller="Libroes" asp-action="Index">
+    <p>
+        Buscar: <input type="text" name="buscar" class="form-text" />
+        <input type="submit" value="buscar" class="btn btn-sm btn-dark" />
+
+    </p>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Isbn)
+
+            </th>
+            <th>
+                <a asp-action="Index" asp-route-filtro="@ViewData["FiltroTitulo"]">
+
+                    @Html.DisplayNameFor(model => model.Titulo)
+                </a>
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NombreAutor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Publicacion)
+            </th>
+            <th>
+                <a asp-action="Index" asp-route-filtro="@ViewData["FiltroFechaRegistro"]">
+
+                    @Html.DisplayNameFor(model => model.FechaRegistro)
+                </a>
+            </th>
+          
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                    @Html.DisplayFor(modelItem => item.Isbn)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Titulo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombreAutor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Publicacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaRegistro)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CodigoCategoriaNavigation.CodigoCategoria)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NitEditorialNavigation.Nit)
+            </td>
+            <td>
+                <a asp-action="Edit" class="btn btn-warning" asp-route-id="@item.Isbn">Edit</a> 
+                <a asp-action="Details" class="btn btn-primary" asp-route-id="@item.Isbn">Details</a> 
+                <a asp-action="Delete"  class = "btn btn-danger" asp-route-id="@item.Isbn">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

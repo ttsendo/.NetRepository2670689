@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\CrudMvcSebasCastanoEF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{800CE351-F938-4F17-B4B6-D8C0F08F2BC7}|CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF.csproj|c:\\users\\sena\\desktop\\practicas net\\dotnet\\apis\\crudmvcsebascastanoef\\crudmvcsebascastanoef\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{800CE351-F938-4F17-B4B6-D8C0F08F2BC7}|CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF.csproj|solutionrelative:crudmvcsebascastanoef\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800CE351-F938-4F17-B4B6-D8C0F08F2BC7}|CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF.csproj|c:\\users\\sena\\desktop\\practicas net\\dotnet\\apis\\crudmvcsebascastanoef\\crudmvcsebascastanoef\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800CE351-F938-4F17-B4B6-D8C0F08F2BC7}|CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF.csproj|solutionrelative:crudmvcsebascastanoef\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800CE351-F938-4F17-B4B6-D8C0F08F2BC7}|CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF.csproj|c:\\users\\sena\\desktop\\practicas net\\dotnet\\apis\\crudmvcsebascastanoef\\crudmvcsebascastanoef\\views\\editoriales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{800CE351-F938-4F17-B4B6-D8C0F08F2BC7}|CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF.csproj|solutionrelative:crudmvcsebascastanoef\\views\\editoriales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800CE351-F938-4F17-B4B6-D8C0F08F2BC7}|CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF.csproj|c:\\users\\sena\\desktop\\practicas net\\dotnet\\apis\\crudmvcsebascastanoef\\crudmvcsebascastanoef\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{800CE351-F938-4F17-B4B6-D8C0F08F2BC7}|CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF.csproj|solutionrelative:crudmvcsebascastanoef\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800CE351-F938-4F17-B4B6-D8C0F08F2BC7}|CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF.csproj|c:\\users\\sena\\desktop\\practicas net\\dotnet\\apis\\crudmvcsebascastanoef\\crudmvcsebascastanoef\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{800CE351-F938-4F17-B4B6-D8C0F08F2BC7}|CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF.csproj|solutionrelative:crudmvcsebascastanoef\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800CE351-F938-4F17-B4B6-D8C0F08F2BC7}|CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF.csproj|c:\\users\\sena\\desktop\\practicas net\\dotnet\\apis\\crudmvcsebascastanoef\\crudmvcsebascastanoef\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{800CE351-F938-4F17-B4B6-D8C0F08F2BC7}|CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF.csproj|solutionrelative:crudmvcsebascastanoef\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800CE351-F938-4F17-B4B6-D8C0F08F2BC7}|CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF.csproj|c:\\users\\sena\\desktop\\practicas net\\dotnet\\apis\\crudmvcsebascastanoef\\crudmvcsebascastanoef\\views\\libroes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{800CE351-F938-4F17-B4B6-D8C0F08F2BC7}|CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF.csproj|solutionrelative:crudmvcsebascastanoef\\views\\libroes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800CE351-F938-4F17-B4B6-D8C0F08F2BC7}|CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF.csproj|c:\\users\\sena\\desktop\\practicas net\\dotnet\\apis\\crudmvcsebascastanoef\\crudmvcsebascastanoef\\controllers\\libroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800CE351-F938-4F17-B4B6-D8C0F08F2BC7}|CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF.csproj|solutionrelative:crudmvcsebascastanoef\\controllers\\libroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800CE351-F938-4F17-B4B6-D8C0F08F2BC7}|CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF.csproj|c:\\users\\sena\\desktop\\practicas net\\dotnet\\apis\\crudmvcsebascastanoef\\crudmvcsebascastanoef\\controllers\\editorialescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800CE351-F938-4F17-B4B6-D8C0F08F2BC7}|CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF.csproj|solutionrelative:crudmvcsebascastanoef\\controllers\\editorialescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800CE351-F938-4F17-B4B6-D8C0F08F2BC7}|CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF.csproj|c:\\users\\sena\\desktop\\practicas net\\dotnet\\apis\\crudmvcsebascastanoef\\crudmvcsebascastanoef\\models\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800CE351-F938-4F17-B4B6-D8C0F08F2BC7}|CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF.csproj|solutionrelative:crudmvcsebascastanoef\\models\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800CE351-F938-4F17-B4B6-D8C0F08F2BC7}|CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF.csproj|c:\\users\\sena\\desktop\\practicas net\\dotnet\\apis\\crudmvcsebascastanoef\\crudmvcsebascastanoef\\views\\libroes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{800CE351-F938-4F17-B4B6-D8C0F08F2BC7}|CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF.csproj|solutionrelative:crudmvcsebascastanoef\\views\\libroes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800CE351-F938-4F17-B4B6-D8C0F08F2BC7}|CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF.csproj|c:\\users\\sena\\desktop\\practicas net\\dotnet\\apis\\crudmvcsebascastanoef\\crudmvcsebascastanoef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800CE351-F938-4F17-B4B6-D8C0F08F2BC7}|CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF.csproj|solutionrelative:crudmvcsebascastanoef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800CE351-F938-4F17-B4B6-D8C0F08F2BC7}|CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF.csproj|c:\\users\\sena\\desktop\\practicas net\\dotnet\\apis\\crudmvcsebascastanoef\\crudmvcsebascastanoef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{800CE351-F938-4F17-B4B6-D8C0F08F2BC7}|CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF.csproj|solutionrelative:crudmvcsebascastanoef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF\\Views\\Categorias\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudMvcSebasCastanoEF\\Views\\Categorias\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF\\Views\\Categorias\\Index.cshtml",
+              "RelativeToolTip": "CrudMvcSebasCastanoEF\\Views\\Categorias\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T16:45:32.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF\\Views\\Libroes\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudMvcSebasCastanoEF\\Views\\Libroes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF\\Views\\Libroes\\Index.cshtml",
+              "RelativeToolTip": "CrudMvcSebasCastanoEF\\Views\\Libroes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T16:55:00.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "CrudMvcSebasCastanoEF\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "CrudMvcSebasCastanoEF\\Controllers\\CategoriasController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T16:39:58.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudMvcSebasCastanoEF\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CrudMvcSebasCastanoEF\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T16:58:02.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CrudMvcSebasCastanoEF\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CrudMvcSebasCastanoEF\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T16:55:42.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CrudMvcSebasCastanoEF\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CrudMvcSebasCastanoEF\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T16:42:54.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF\\Views\\Editoriales\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudMvcSebasCastanoEF\\Views\\Editoriales\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF\\Views\\Editoriales\\Index.cshtml",
+              "RelativeToolTip": "CrudMvcSebasCastanoEF\\Views\\Editoriales\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T16:54:41.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibroesController.cs",
+              "DocumentMoniker": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF\\Controllers\\LibroesController.cs",
+              "RelativeDocumentMoniker": "CrudMvcSebasCastanoEF\\Controllers\\LibroesController.cs",
+              "ToolTip": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF\\Controllers\\LibroesController.cs",
+              "RelativeToolTip": "CrudMvcSebasCastanoEF\\Controllers\\LibroesController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA5wDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T16:41:21.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditorialesController.cs",
+              "DocumentMoniker": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF\\Controllers\\EditorialesController.cs",
+              "RelativeDocumentMoniker": "CrudMvcSebasCastanoEF\\Controllers\\EditorialesController.cs",
+              "ToolTip": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF\\Controllers\\EditorialesController.cs",
+              "RelativeToolTip": "CrudMvcSebasCastanoEF\\Controllers\\EditorialesController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T16:40:35.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BibliotecaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF\\Models\\BibliotecaContext.cs",
+              "RelativeDocumentMoniker": "CrudMvcSebasCastanoEF\\Models\\BibliotecaContext.cs",
+              "ToolTip": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF\\Models\\BibliotecaContext.cs",
+              "RelativeToolTip": "CrudMvcSebasCastanoEF\\Models\\BibliotecaContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T16:35:24.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF\\Views\\Libroes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CrudMvcSebasCastanoEF\\Views\\Libroes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF\\Views\\Libroes\\Delete.cshtml",
+              "RelativeToolTip": "CrudMvcSebasCastanoEF\\Views\\Libroes\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T16:57:56.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF\\Program.cs",
+              "RelativeDocumentMoniker": "CrudMvcSebasCastanoEF\\Program.cs",
+              "ToolTip": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF\\Program.cs",
+              "RelativeToolTip": "CrudMvcSebasCastanoEF\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T16:37:41.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF\\appsettings.json",
+              "RelativeDocumentMoniker": "CrudMvcSebasCastanoEF\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sena\\Desktop\\practicas net\\dotNet\\APIs\\CrudMvcSebasCastanoEF\\CrudMvcSebasCastanoEF\\appsettings.json",
+              "RelativeToolTip": "CrudMvcSebasCastanoEF\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAADZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-12T16:36:06.405Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
