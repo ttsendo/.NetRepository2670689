@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\source\\repos\\AutenticarconToken\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7575264-0082-4EF9-8AFA-7D0A332A6B30}|AutenticarconToken\\AutenticarconToken.csproj|c:\\users\\usuario\\source\\repos\\autenticarcontoken\\autenticarcontoken\\services\\iautorizacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7575264-0082-4EF9-8AFA-7D0A332A6B30}|AutenticarconToken\\AutenticarconToken.csproj|solutionrelative:autenticarcontoken\\services\\iautorizacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7575264-0082-4EF9-8AFA-7D0A332A6B30}|AutenticarconToken\\AutenticarconToken.csproj|c:\\users\\usuario\\source\\repos\\autenticarcontoken\\autenticarcontoken\\services\\autorizacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7575264-0082-4EF9-8AFA-7D0A332A6B30}|AutenticarconToken\\AutenticarconToken.csproj|solutionrelative:autenticarcontoken\\services\\autorizacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7575264-0082-4EF9-8AFA-7D0A332A6B30}|AutenticarconToken\\AutenticarconToken.csproj|c:\\users\\usuario\\source\\repos\\autenticarcontoken\\autenticarcontoken\\controllers\\paisescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7575264-0082-4EF9-8AFA-7D0A332A6B30}|AutenticarconToken\\AutenticarconToken.csproj|solutionrelative:autenticarcontoken\\controllers\\paisescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7575264-0082-4EF9-8AFA-7D0A332A6B30}|AutenticarconToken\\AutenticarconToken.csproj|c:\\users\\usuario\\source\\repos\\autenticarcontoken\\autenticarcontoken\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7575264-0082-4EF9-8AFA-7D0A332A6B30}|AutenticarconToken\\AutenticarconToken.csproj|solutionrelative:autenticarcontoken\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7575264-0082-4EF9-8AFA-7D0A332A6B30}|AutenticarconToken\\AutenticarconToken.csproj|c:\\users\\usuario\\source\\repos\\autenticarcontoken\\autenticarcontoken\\models\\custom\\autorizacionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7575264-0082-4EF9-8AFA-7D0A332A6B30}|AutenticarconToken\\AutenticarconToken.csproj|solutionrelative:autenticarcontoken\\models\\custom\\autorizacionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7575264-0082-4EF9-8AFA-7D0A332A6B30}|AutenticarconToken\\AutenticarconToken.csproj|c:\\users\\usuario\\source\\repos\\autenticarcontoken\\autenticarcontoken\\models\\dbpruebacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7575264-0082-4EF9-8AFA-7D0A332A6B30}|AutenticarconToken\\AutenticarconToken.csproj|solutionrelative:autenticarcontoken\\models\\dbpruebacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7575264-0082-4EF9-8AFA-7D0A332A6B30}|AutenticarconToken\\AutenticarconToken.csproj|c:\\users\\usuario\\source\\repos\\autenticarcontoken\\autenticarcontoken\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7575264-0082-4EF9-8AFA-7D0A332A6B30}|AutenticarconToken\\AutenticarconToken.csproj|solutionrelative:autenticarcontoken\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7575264-0082-4EF9-8AFA-7D0A332A6B30}|AutenticarconToken\\AutenticarconToken.csproj|c:\\users\\usuario\\source\\repos\\autenticarcontoken\\autenticarcontoken\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7575264-0082-4EF9-8AFA-7D0A332A6B30}|AutenticarconToken\\AutenticarconToken.csproj|solutionrelative:autenticarcontoken\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7575264-0082-4EF9-8AFA-7D0A332A6B30}|AutenticarconToken\\AutenticarconToken.csproj|c:\\users\\usuario\\source\\repos\\autenticarcontoken\\autenticarcontoken\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7575264-0082-4EF9-8AFA-7D0A332A6B30}|AutenticarconToken\\AutenticarconToken.csproj|solutionrelative:autenticarcontoken\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7575264-0082-4EF9-8AFA-7D0A332A6B30}|AutenticarconToken\\AutenticarconToken.csproj|c:\\users\\usuario\\source\\repos\\autenticarcontoken\\autenticarcontoken\\autenticarcontoken.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A7575264-0082-4EF9-8AFA-7D0A332A6B30}|AutenticarconToken\\AutenticarconToken.csproj|solutionrelative:autenticarcontoken\\autenticarcontoken.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbpruebaContext.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\AutenticarconToken\\AutenticarconToken\\Models\\DbpruebaContext.cs",
+              "RelativeDocumentMoniker": "AutenticarconToken\\Models\\DbpruebaContext.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\AutenticarconToken\\AutenticarconToken\\Models\\DbpruebaContext.cs",
+              "RelativeToolTip": "AutenticarconToken\\Models\\DbpruebaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T00:31:02.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\AutenticarconToken\\AutenticarconToken\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "AutenticarconToken\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\AutenticarconToken\\AutenticarconToken\\Models\\Usuario.cs",
+              "RelativeToolTip": "AutenticarconToken\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T00:27:59.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\AutenticarconToken\\AutenticarconToken\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "AutenticarconToken\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\AutenticarconToken\\AutenticarconToken\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "AutenticarconToken\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:41:15.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaisesController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\AutenticarconToken\\AutenticarconToken\\Controllers\\PaisesController.cs",
+              "RelativeDocumentMoniker": "AutenticarconToken\\Controllers\\PaisesController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\AutenticarconToken\\AutenticarconToken\\Controllers\\PaisesController.cs",
+              "RelativeToolTip": "AutenticarconToken\\Controllers\\PaisesController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:36:23.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\AutenticarconToken\\AutenticarconToken\\Program.cs",
+              "RelativeDocumentMoniker": "AutenticarconToken\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\AutenticarconToken\\AutenticarconToken\\Program.cs",
+              "RelativeToolTip": "AutenticarconToken\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:03:00.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutorizacionService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\AutenticarconToken\\AutenticarconToken\\Services\\AutorizacionService.cs",
+              "RelativeDocumentMoniker": "AutenticarconToken\\Services\\AutorizacionService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\AutenticarconToken\\AutenticarconToken\\Services\\AutorizacionService.cs",
+              "RelativeToolTip": "AutenticarconToken\\Services\\AutorizacionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T21:12:29.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutorizacionRequest.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\AutenticarconToken\\AutenticarconToken\\Models\\Custom\\AutorizacionRequest.cs",
+              "RelativeDocumentMoniker": "AutenticarconToken\\Models\\Custom\\AutorizacionRequest.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\AutenticarconToken\\AutenticarconToken\\Models\\Custom\\AutorizacionRequest.cs",
+              "RelativeToolTip": "AutenticarconToken\\Models\\Custom\\AutorizacionRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T21:07:43.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AutenticarconToken.csproj",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\AutenticarconToken\\AutenticarconToken\\AutenticarconToken.csproj",
+              "RelativeDocumentMoniker": "AutenticarconToken\\AutenticarconToken.csproj",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\AutenticarconToken\\AutenticarconToken\\AutenticarconToken.csproj",
+              "RelativeToolTip": "AutenticarconToken\\AutenticarconToken.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-03T21:07:16.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\AutenticarconToken\\AutenticarconToken\\appsettings.json",
+              "RelativeDocumentMoniker": "AutenticarconToken\\appsettings.json",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\AutenticarconToken\\AutenticarconToken\\appsettings.json",
+              "RelativeToolTip": "AutenticarconToken\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-03T21:07:16.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAutorizacionService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\AutenticarconToken\\AutenticarconToken\\Services\\IAutorizacionService.cs",
+              "RelativeDocumentMoniker": "AutenticarconToken\\Services\\IAutorizacionService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\AutenticarconToken\\AutenticarconToken\\Services\\IAutorizacionService.cs",
+              "RelativeToolTip": "AutenticarconToken\\Services\\IAutorizacionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T21:07:15.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
