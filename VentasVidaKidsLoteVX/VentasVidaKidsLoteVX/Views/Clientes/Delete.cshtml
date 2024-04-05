@@ -1,0 +1,75 @@
+﻿@model VentasVidaKidsLoteVX.Models.Cliente
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Cliente</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Nombre
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NombreCliente)
+        </dd>
+        <dt class="col-sm-2">
+            Apellido
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ApellidoCliente)
+        </dd>
+        <dt class="col-sm-2">
+            Correo
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.EmailCliente)
+        </dd>
+        <dt class="col-sm-2">
+            Telefono
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TelefonoCliente)
+        </dd>
+        <dt class="col-sm-2">
+            Pais
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PaisCliente)
+        </dd>
+        <dt class="col-sm-2">
+            Ciudad
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CiudadCliente)
+        </dd>
+        <dt class="col-sm-2">
+            Contraseña
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PasswordCliente)
+        </dd>
+        <dt class="col-sm-2">
+            Fecha Registro
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.FechaClienteRegistro)
+        </dd>
+        <dt class="col-sm-2">
+            Estado
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NombreEstadoClienteNavigation.NombreEstadoCliente)
+        </dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="IdCliente" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>
