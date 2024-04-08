@@ -1,5 +1,30 @@
 ﻿@model VentasVidaKidsLoteVX.Models.Cliente
+<style>
+    .centrar_form {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
 
+    .container_form {
+        width: 95%;
+        height: 85%;
+        display: grid;
+        grid-template-columns: 50% 50%;
+        grid-gap: 30px;
+    }
+
+    .caja {
+        width: 100%;
+    }
+
+        .caja select, .caja input {
+            width: 450px;
+            height: 35px;
+        }
+
+</style>
 @{
     ViewData["Title"] = "Create";
 }
@@ -9,58 +34,160 @@
 <h4>Cliente</h4>
 <hr />
 <div class="row">
-    <div class="col-md-4">
-        <form asp-action="Create">
+
+    <div class="centrar_form">
+        <form asp-action="Create" class="needs-validation" novalidate>
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="NombreEstadoCliente" class="control-label">Estado</label>
-                <select asp-for="NombreEstadoCliente" class="form-control" asp-items="ViewBag.NombreEstadoCliente"></select>
+            <div class="container_form">
+                <div class="caja">
+                    <div class="form-group">
+                        <label asp-for="NombreEstadoCliente" class="control-label">Estado</label>
+                        <select asp-for="NombreEstadoCliente" class="form-control" asp-items="ViewBag.NombreEstadoCliente"></select>
+                        *Recuerda, el estado del cliente sera Activo por Defecto*
+                    </div>
+
+                    <div class="form-group">
+                        <label for="nombre" asp-for="NombreCliente" class="control-label"></label>
+                        <input id="nombre" asp-for="NombreCliente" class="form-control" required />
+                        <span asp-validation-for="NombreCliente" class="text-danger"></span>
+                        <div class="valid-feedback">
+                            Llenado corectamente
+
+                        </div>
+                        <div class="invalid-feedback">
+                            El Nombre es un campo obligatorio
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="form-group">
+                        <label for="apellido" asp-for="ApellidoCliente" class="control-label"></label>
+                        <input id="apellido" asp-for="ApellidoCliente" class="form-control" required />
+                        <span asp-validation-for="ApellidoCliente" class="text-danger"></span>
+                        <div class="valid-feedback">
+                            Llenado corectamente
+
+                        </div>
+                        <div class="invalid-feedback">
+                            El Apellido es un campo obligatorio
+
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="email" asp-for="EmailCliente" class="control-label"></label>
+                        <input id="email" asp-for="EmailCliente" class="form-control" required />
+                        <span asp-validation-for="EmailCliente" class="text-danger"></span>
+                        <div class="valid-feedback">
+                            Llenado corectamente
+
+                        </div>
+                        <div class="invalid-feedback">
+                            El Apellido es un campo obligatorio
+
+                        </div>
+                    </div>
+
+
+                    <div class="form-group">
+                        <label for="telefono" asp-for="TelefonoCliente" class="control-label"></label>
+                        <input id="telefono" asp-for="TelefonoCliente" class="form-control" required />
+                        <span asp-validation-for="TelefonoCliente" class="text-danger"></span>
+                        <div class="valid-feedback">
+                            Llenado corectamente
+
+                        </div>
+                        <div class="invalid-feedback">
+                            El Telefono es un campo obligatorio
+
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="caja">
+                    <div class="form-group">
+                        <label for="pais" asp-for="PaisCliente" class="control-label"></label>
+                        <input id="pais" asp-for="PaisCliente" class="form-control" required />
+                        <span asp-validation-for="PaisCliente" class="text-danger"></span>
+                        <div class="valid-feedback">
+                            Llenado corectamente
+
+                        </div>
+                        <div class="invalid-feedback">
+                            El Pais es un campo obligatorio
+
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="ciudad" asp-for="CiudadCliente" class="control-label"></label>
+                        <input id="ciudad" asp-for="CiudadCliente" class="form-control" required />
+                        <span asp-validation-for="CiudadCliente" class="text-danger"></span>
+                        <div class="valid-feedback">
+                            Llenado corectamente
+
+                        </div>
+                        <div class="invalid-feedback">
+                            La Ciudad es un campo obligatorio
+
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="password" asp-for="PasswordCliente" class="control-label"></label>
+                        <input id="password" asp-for="PasswordCliente" class="form-control" required />
+                        <span asp-validation-for="PasswordCliente" class="text-danger"></span>
+                        <div class="valid-feedback">
+                            Llenado corectamente
+
+                        </div>
+                        <div class="invalid-feedback">
+                            La Contraseña es un campo obligatorio
+
+                        </div>
+                    </div>
+                </div>
             </div>
+
+
+
+
             <div class="form-group">
-                <label asp-for="NombreCliente" class="control-label">Nombre Cliente</label>
-                <input asp-for="NombreCliente" class="form-control" />
-                <span asp-validation-for="NombreCliente" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="ApellidoCliente" class="control-label">Apellidos</label>
-                <input asp-for="ApellidoCliente" class="form-control" />
-                <span asp-validation-for="ApellidoCliente" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="EmailCliente" class="control-label">Correo</label>
-                <input asp-for="EmailCliente" class="form-control" />
-                <span asp-validation-for="EmailCliente" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="TelefonoCliente" class="control-label">Telefono</label>
-                <input asp-for="TelefonoCliente" class="form-control" />
-                <span asp-validation-for="TelefonoCliente" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="PaisCliente" class="control-label">Pais</label>
-                <input asp-for="PaisCliente" class="form-control" />
-                <span asp-validation-for="PaisCliente" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="CiudadCliente" class="control-label">Ciudad</label>
-                <input asp-for="CiudadCliente" class="form-control" />
-                <span asp-validation-for="CiudadCliente" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="PasswordCliente" class="control-label">Contraseña</label>
-                <input asp-for="PasswordCliente" class="form-control" />
-                <span asp-validation-for="PasswordCliente" class="text-danger"></span>
-            </div>
-            <div class="form-group">
+
                 <input type="submit" value="Create" class="btn btn-primary" />
+                <a class="btn btn-secondary" asp-action="Index">Regresar</a>
             </div>
         </form>
     </div>
+
 </div>
 
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
+
+<script>
+    // Example starter JavaScript for disabling form submissions if there are invalid fields
+    (function () {
+        'use strict'
+
+        // Fetch all the forms we want to apply custom Bootstrap validation styles to
+        var forms = document.querySelectorAll('.needs-validation')
+
+        // Loop over them and prevent submission
+        Array.prototype.slice.call(forms)
+            .forEach(function (form) {
+                form.addEventListener('submit', function (event) {
+                    if (!form.checkValidity()) {
+                        event.preventDefault()
+                        event.stopPropagation()
+                    }
+
+                    form.classList.add('was-validated')
+                }, false)
+            })
+    })()
+</script>
 
 @section Scripts {
     @{

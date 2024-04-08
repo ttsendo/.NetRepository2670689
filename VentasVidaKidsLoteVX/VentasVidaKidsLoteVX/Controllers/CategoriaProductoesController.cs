@@ -18,6 +18,7 @@ namespace VentasVidaKidsLoteVX.Controllers
             _context = context;
         }
 
+   
         // GET: CategoriaProductoes
         public async Task<IActionResult> Index()
         {
@@ -50,6 +51,10 @@ namespace VentasVidaKidsLoteVX.Controllers
             return View();
         }
 
+
+        // POST: CategoriaProductoes/Create
+        // To protect from overposting attacks, enable the specific properties you want to bind to.
+        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         // POST: CategoriaProductoes/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
@@ -57,14 +62,27 @@ namespace VentasVidaKidsLoteVX.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("IdCategoria,NombreCategoria,DescripcionCategoria")] CategoriaProducto categoriaProducto)
         {
+            // Verifica si ya existe una categoría con el mismo nombre
+            var existingCategory = await _context.CategoriaProductos.FirstOrDefaultAsync(c => c.NombreCategoria == categoriaProducto.NombreCategoria);
+
+            if (existingCategory != null)
+            {
+                // Si ya existe una categoría con el mismo nombre, muestra un mensaje de error
+                ModelState.AddModelError("NombreCategoria", "Ya existe una categoría con este nombre.");
+            }
+
             if (ModelState.IsValid)
             {
+                // Si no hay errores de validación, procede a crear la nueva categoría
                 _context.Add(categoriaProducto);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
+
+            // Si hay errores de validación o si ya existe una categoría con el mismo nombre, muestra el formulario de creación nuevamente
             return View(categoriaProducto);
         }
+
 
         // GET: CategoriaProductoes/Edit/5
         public async Task<IActionResult> Edit(string id)
@@ -138,6 +156,42 @@ namespace VentasVidaKidsLoteVX.Controllers
         // POST: CategoriaProductoes/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
+        public async Task<IActionResult> DeleteConfirmed(int id)
+        {
+            if (_context.CategoriaProductos == null)
+            {
+                return Problem("Entity set 'ServiciosDbContext.Categoria'  is null.");
+            }
+
+            var categorium = await _context.CategoriaProductos.FindAsync(id);
+
+            if (categorium == null)
+            {
+                return NotFound();
+            }
+
+            // Verificar si la clave externa está siendo utilizada
+            var isForeignKeyUsed = _context.CategoriaProductos.Any(s => s.IdCategoria == id);
+
+            if (isForeignKeyUsed)
+            {
+                // Mostrar una alerta si la clave externa está siendo utilizada
+                TempData["ErrorMessage"] = "No se puede eliminar la categoría porque está siendo utilizada por uno o más servicios.";
+                return RedirectToAction(nameof(Index));
+            }
+            else if (categorium != null)
+            {
+
+
+                // Agregar la alerta de éxito a TempData
+                TempData["SuccessMessage"] = "La categoría se eliminó correctamente.";
+            }
+
+            // Si la clave externa no está siendo utilizada, eliminar la categoría
+            _context.CategoriaProductos.Remove(categorium);
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
+        }
         public async Task<IActionResult> DeleteConfirmed(string id)
         {
             if (_context.CategoriaProductos == null)

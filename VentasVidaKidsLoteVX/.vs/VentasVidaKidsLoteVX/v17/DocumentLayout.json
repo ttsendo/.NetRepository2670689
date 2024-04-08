@@ -3,12 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|c:\\users\\usuario\\source\\repos\\ventasvidakidslotevx\\ventasvidakidslotevx\\views\\productoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|solutionrelative:ventasvidakidslotevx\\views\\productoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|c:\\users\\usuario\\source\\repos\\ventasvidakidslotevx\\ventasvidakidslotevx\\views\\productoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|solutionrelative:ventasvidakidslotevx\\views\\productoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|c:\\users\\usuario\\source\\repos\\ventasvidakidslotevx\\ventasvidakidslotevx\\views\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|solutionrelative:ventasvidakidslotevx\\views\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|c:\\users\\usuario\\source\\repos\\ventasvidakidslotevx\\ventasvidakidslotevx\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|solutionrelative:ventasvidakidslotevx\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|c:\\users\\usuario\\source\\repos\\ventasvidakidslotevx\\ventasvidakidslotevx\\views\\categoriaproductoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|solutionrelative:ventasvidakidslotevx\\views\\categoriaproductoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|c:\\users\\usuario\\source\\repos\\ventasvidakidslotevx\\ventasvidakidslotevx\\views\\categoriaproductoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|solutionrelative:ventasvidakidslotevx\\views\\categoriaproductoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|c:\\users\\usuario\\source\\repos\\ventasvidakidslotevx\\ventasvidakidslotevx\\views\\categoriaproductoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|solutionrelative:ventasvidakidslotevx\\views\\categoriaproductoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|c:\\users\\usuario\\source\\repos\\ventasvidakidslotevx\\ventasvidakidslotevx\\views\\productoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|solutionrelative:ventasvidakidslotevx\\views\\productoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|c:\\users\\usuario\\source\\repos\\ventasvidakidslotevx\\ventasvidakidslotevx\\views\\categoriaproductoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|solutionrelative:ventasvidakidslotevx\\views\\categoriaproductoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|c:\\users\\usuario\\source\\repos\\ventasvidakidslotevx\\ventasvidakidslotevx\\controllers\\categoriaproductoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|solutionrelative:ventasvidakidslotevx\\controllers\\categoriaproductoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|c:\\users\\usuario\\source\\repos\\ventasvidakidslotevx\\ventasvidakidslotevx\\models\\categoriaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|solutionrelative:ventasvidakidslotevx\\models\\categoriaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|c:\\users\\usuario\\source\\repos\\ventasvidakidslotevx\\ventasvidakidslotevx\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|solutionrelative:ventasvidakidslotevx\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|c:\\users\\usuario\\source\\repos\\ventasvidakidslotevx\\ventasvidakidslotevx\\views\\categoriaproductoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|solutionrelative:ventasvidakidslotevx\\views\\categoriaproductoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|c:\\users\\usuario\\source\\repos\\ventasvidakidslotevx\\ventasvidakidslotevx\\views\\productoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|solutionrelative:ventasvidakidslotevx\\views\\productoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|c:\\users\\usuario\\source\\repos\\ventasvidakidslotevx\\ventasvidakidslotevx\\views\\productoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|solutionrelative:ventasvidakidslotevx\\views\\productoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|c:\\users\\usuario\\source\\repos\\ventasvidakidslotevx\\ventasvidakidslotevx\\views\\productoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|solutionrelative:ventasvidakidslotevx\\views\\productoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|c:\\users\\usuario\\source\\repos\\ventasvidakidslotevx\\ventasvidakidslotevx\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|solutionrelative:ventasvidakidslotevx\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|c:\\users\\usuario\\source\\repos\\ventasvidakidslotevx\\ventasvidakidslotevx\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|solutionrelative:ventasvidakidslotevx\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|c:\\users\\usuario\\source\\repos\\ventasvidakidslotevx\\ventasvidakidslotevx\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3F71C36-2163-4A2B-B970-B590D40D1727}|VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX.csproj|solutionrelative:ventasvidakidslotevx\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,30 +85,235 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Views\\Productoes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "VentasVidaKidsLoteVX\\Views\\Productoes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Views\\Productoes\\Delete.cshtml",
+              "RelativeToolTip": "VentasVidaKidsLoteVX\\Views\\Productoes\\Delete.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAkwFAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T03:41:24.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriaProductoesController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Controllers\\CategoriaProductoesController.cs",
+              "RelativeDocumentMoniker": "VentasVidaKidsLoteVX\\Controllers\\CategoriaProductoesController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Controllers\\CategoriaProductoesController.cs",
+              "RelativeToolTip": "VentasVidaKidsLoteVX\\Controllers\\CategoriaProductoesController.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAqwKsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T23:23:08.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Views\\CategoriaProductoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "VentasVidaKidsLoteVX\\Views\\CategoriaProductoes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Views\\CategoriaProductoes\\Create.cshtml",
+              "RelativeToolTip": "VentasVidaKidsLoteVX\\Views\\CategoriaProductoes\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T22:15:29.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Views\\CategoriaProductoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "VentasVidaKidsLoteVX\\Views\\CategoriaProductoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Views\\CategoriaProductoes\\Index.cshtml",
+              "RelativeToolTip": "VentasVidaKidsLoteVX\\Views\\CategoriaProductoes\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T21:23:06.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Views\\CategoriaProductoes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "VentasVidaKidsLoteVX\\Views\\CategoriaProductoes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Views\\CategoriaProductoes\\Delete.cshtml",
+              "RelativeToolTip": "VentasVidaKidsLoteVX\\Views\\CategoriaProductoes\\Delete.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAFoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T23:01:30.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Views\\Productoes\\Details.cshtml",
+              "RelativeDocumentMoniker": "VentasVidaKidsLoteVX\\Views\\Productoes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Views\\Productoes\\Details.cshtml",
+              "RelativeToolTip": "VentasVidaKidsLoteVX\\Views\\Productoes\\Details.cshtml",
+              "ViewState": "AQIAADQAAAAAAAAAAAAowGYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T02:06:53.261Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Views\\Clientes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "VentasVidaKidsLoteVX\\Views\\Clientes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Views\\Clientes\\Delete.cshtml",
+              "RelativeToolTip": "VentasVidaKidsLoteVX\\Views\\Clientes\\Delete.cshtml",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAowE8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T22:04:02.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Views\\CategoriaProductoes\\Details.cshtml",
+              "RelativeDocumentMoniker": "VentasVidaKidsLoteVX\\Views\\CategoriaProductoes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Views\\CategoriaProductoes\\Details.cshtml",
+              "RelativeToolTip": "VentasVidaKidsLoteVX\\Views\\CategoriaProductoes\\Details.cshtml",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAUwF8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T22:45:38.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Views\\Clientes\\Details.cshtml",
+              "RelativeDocumentMoniker": "VentasVidaKidsLoteVX\\Views\\Clientes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Views\\Clientes\\Details.cshtml",
+              "RelativeToolTip": "VentasVidaKidsLoteVX\\Views\\Clientes\\Details.cshtml",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAkwHMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T18:48:35.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriaProducto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Models\\CategoriaProducto.cs",
+              "RelativeDocumentMoniker": "VentasVidaKidsLoteVX\\Models\\CategoriaProducto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Models\\CategoriaProducto.cs",
+              "RelativeToolTip": "VentasVidaKidsLoteVX\\Models\\CategoriaProducto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T23:22:12.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "VentasVidaKidsLoteVX\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "VentasVidaKidsLoteVX\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAAAL4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T21:10:15.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Views\\Productoes\\Edit.cshtml",
               "RelativeDocumentMoniker": "VentasVidaKidsLoteVX\\Views\\Productoes\\Edit.cshtml",
               "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Views\\Productoes\\Edit.cshtml",
               "RelativeToolTip": "VentasVidaKidsLoteVX\\Views\\Productoes\\Edit.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAADMAAAAAAAAA",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAkwF4AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-05T06:02:53.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T06:02:53.018Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Views\\CategoriaProductoes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "VentasVidaKidsLoteVX\\Views\\CategoriaProductoes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Views\\CategoriaProductoes\\Edit.cshtml",
+              "RelativeToolTip": "VentasVidaKidsLoteVX\\Views\\CategoriaProductoes\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T22:28:14.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Views\\Productoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "VentasVidaKidsLoteVX\\Views\\Productoes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Views\\Productoes\\Create.cshtml",
+              "RelativeToolTip": "VentasVidaKidsLoteVX\\Views\\Productoes\\Create.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAFkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T23:46:16.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "VentasVidaKidsLoteVX\\Views\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "VentasVidaKidsLoteVX\\Views\\Clientes\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T22:11:20.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Views\\Clientes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "VentasVidaKidsLoteVX\\Views\\Clientes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Views\\Clientes\\Edit.cshtml",
+              "RelativeToolTip": "VentasVidaKidsLoteVX\\Views\\Clientes\\Edit.cshtml",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAkwKoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T21:41:29.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Views\\Clientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "VentasVidaKidsLoteVX\\Views\\Clientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Views\\Clientes\\Create.cshtml",
+              "RelativeToolTip": "VentasVidaKidsLoteVX\\Views\\Clientes\\Create.cshtml",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAJUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T18:48:14.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Views\\Productoes\\Index.cshtml",
               "RelativeDocumentMoniker": "VentasVidaKidsLoteVX\\Views\\Productoes\\Index.cshtml",
               "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\VentasVidaKidsLoteVX\\VentasVidaKidsLoteVX\\Views\\Productoes\\Index.cshtml",
               "RelativeToolTip": "VentasVidaKidsLoteVX\\Views\\Productoes\\Index.cshtml",
-              "ViewState": "AQIAAEwAAAAAAAAAAAAQwFMAAAASAAAA",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAABwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-05T06:01:02.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T06:01:02.793Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }

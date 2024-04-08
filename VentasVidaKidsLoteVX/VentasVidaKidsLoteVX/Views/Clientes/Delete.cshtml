@@ -4,72 +4,109 @@
     ViewData["Title"] = "Delete";
 }
 
-<h1>Delete</h1>
+<style>
+    .details-container {
+        max-width: 800px;
+        margin: 0 auto;
+        text-align: center;
+    }
 
-<h3>Are you sure you want to delete this?</h3>
-<div>
-    <h4>Cliente</h4>
-    <hr />
-    <dl class="row">
-        <dt class="col-sm-2">
-            Nombre
-        </dt>
-        <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.NombreCliente)
-        </dd>
-        <dt class="col-sm-2">
-            Apellido
-        </dt>
-        <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.ApellidoCliente)
-        </dd>
-        <dt class="col-sm-2">
-            Correo
-        </dt>
-        <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.EmailCliente)
-        </dd>
-        <dt class="col-sm-2">
-            Telefono
-        </dt>
-        <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.TelefonoCliente)
-        </dd>
-        <dt class="col-sm-2">
-            Pais
-        </dt>
-        <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.PaisCliente)
-        </dd>
-        <dt class="col-sm-2">
-            Ciudad
-        </dt>
-        <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.CiudadCliente)
-        </dd>
-        <dt class="col-sm-2">
-            Contraseña
-        </dt>
-        <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.PasswordCliente)
-        </dd>
-        <dt class="col-sm-2">
-            Fecha Registro
-        </dt>
-        <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.FechaClienteRegistro)
-        </dd>
-        <dt class="col-sm-2">
-            Estado
-        </dt>
-        <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.NombreEstadoClienteNavigation.NombreEstadoCliente)
-        </dd>
-    </dl>
+    .details-header {
+        background-color: #dc3545;
+        color: #fff;
+        padding: 10px;
+        border-radius: 5px 5px 0 0;
+    }
 
-    <form asp-action="Delete">
-        <input type="hidden" asp-for="IdCliente" />
-        <input type="submit" value="Delete" class="btn btn-danger" /> |
-        <a asp-action="Index">Back to List</a>
-    </form>
+    .details-title {
+        margin: 0;
+    }
+
+    .details-content {
+        background-color: #f9f9f9;
+        border: 1px solid #ddd;
+        border-top: none;
+        border-radius: 0 0 5px 5px;
+        padding: 20px;
+        text-align: center;
+    }
+
+    .details-list {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 20px;
+        margin: 20px 0;
+    }
+
+    .details-item {
+        padding: 10px;
+        border-radius: 5px;
+        background-color: #fff;
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    }
+
+        .details-item dt {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .details-item dd {
+            margin-bottom: 10px;
+        }
+
+    .details-links {
+        margin-top: 20px;
+        text-align: left;
+    }
+
+        .details-links a {
+            margin-right: 10px;
+            text-decoration: none;
+            color: #007bff;
+        }
+
+            .details-links a:hover {
+                text-decoration: underline;
+            }
+</style>
+
+
+<div class="details-container">
+    <div class="details-header">
+        <h1 class="details-title">¿Seguro que desea eliminar el cliente?</h1>
+    </div>
+    <div class="details-content">
+        <h4>Clientes</h4>
+        <hr />
+        <dl class="details-list">
+            <div class="details-item">
+                <dt>Nombre:</dt>
+                <dd>@Html.DisplayFor(model => model.NombreCliente)</dd>
+                <dt>Apellido:</dt>
+                <dd>@Html.DisplayFor(model => model.ApellidoCliente)</dd>
+                <dt>Email:</dt>
+                <dd>@Html.DisplayFor(model => model.EmailCliente)</dd>
+                <dt>Telefono:</dt>
+                <dd>@Html.DisplayFor(model => model.TelefonoCliente)</dd>
+            </div>
+            <div class="details-item">
+                <dt>Pais:</dt>
+                <dd>@Html.DisplayFor(model => model.PaisCliente)</dd>
+                <dt>Ciudad:</dt>
+                <dd>@Html.DisplayFor(model => model.CiudadCliente)</dd>
+                <dt>Contraseña:</dt>
+                <dd>@Html.DisplayFor(model => model.PasswordCliente)</dd>
+                <dt>Fecha Registro:</dt>
+                <dd>@Html.DisplayFor(model => model.FechaClienteRegistro)</dd>
+                <dt>Estado:</dt>
+                <dd>@Html.DisplayFor(model => model.NombreEstadoCliente)</dd>
+            </div>
+        </dl>
+
+        <form asp-action="Delete">
+            <input type="hidden" asp-for="IdCliente" />
+            <input type="submit" value="Eliminar" class="btn btn-danger" />
+            <a class="btn btn-secondary" asp-action="Index">Regresar</a>
+        </form>
+    </div>
 </div>
